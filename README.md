@@ -1,6 +1,9 @@
 ﻿# Drawing3D
-----
 
+[![Build status](https://ci.appveyor.com/api/projects/status/9qh0190px6w4iacx?svg=true)](https://ci.appveyor.com/project/mccj/drawing3d)
+[![NuGet](https://img.shields.io/nuget/v/Drawing3d.svg)](https://www.nuget.org/packages/Drawing3d)
+
+----
 
 ## About
 
