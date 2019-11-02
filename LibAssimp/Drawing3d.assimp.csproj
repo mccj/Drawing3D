@@ -1,11 +1,20 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
     <RootNamespace>Drawing3d</RootNamespace>
-    <TargetFramework>net452</TargetFramework>
+    <TargetFramework>net40</TargetFramework>
     <AssemblyTitle>Drawing3d.assimp</AssemblyTitle>
     <Company>HP Inc.</Company>
     <Product>Drawing3d.assimp</Product>
     <Copyright>Copyright © HP Inc. 2018</Copyright>
+    <RepositoryUrl>https://github.com/mccj/Drawing3D</RepositoryUrl>
+    <PackageProjectUrl>https://drawing3d.de</PackageProjectUrl>
+    <Description>Drawing3d ist eine Bibliothek, die die Programmierung von 3D-Applikationen enorm erleichtert.
+Die zentrale Komponente ist die Device. Sie setzt auf verschiedenen Schnittstellen Modulen auf. 
+Viele Unternehmen schätzen ein CADSystem, das genau ihren Anforderungen angepasst ist. Bekannte CADSysteme haben einen großen Überhang an Möglichkeiten, die nie verwendet werden. Ein eigenes CAD-System in Auftrag zu geben, scheitert oft an den hohen Entwicklerkosten.
+Unser Team verwendet Drawing3D seit Jahren für CAD-Entwicklungen und sonstige kleineree und mittelgroße Visualisierungen áuf der Basis von OpenGL. Mit Drawing3D kann preisgünstig entwickelt werden. Wir möchten dieses Tool allen Programmierern zu Verfügung stellen.
+Das gesamte Tool ist im Sourcecode (C# DotNet) erhältlich!!! Viele Beispiele im Source machen das Erlernen leicht.</Description>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Version>12.0.0</Version>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugType>full</DebugType>
