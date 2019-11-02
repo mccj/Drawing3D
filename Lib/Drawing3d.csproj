@@ -1,6 +1,6 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
-    <TargetFramework>net30</TargetFramework>
+    <TargetFramework>net40</TargetFramework>
     <AssemblyTitle>Drawing3d</AssemblyTitle>
     <Company>Drawing 3d</Company>
     <Product>Drawing3d</Product>
