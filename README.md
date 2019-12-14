@@ -4,9 +4,9 @@
 [![NuGet](https://img.shields.io/nuget/v/Drawing3d.svg)](https://www.nuget.org/packages/Drawing3d)
 
 ----
-注意:我看到官方消息,[Drawing3d官方](https://drawing3d.de/Default.aspx) 计划在一月份发布 正式版的官方 nuget。此库及[nuget](https://www.nuget.org/packages/drawing3d)将会下架
 
-Note: I see the official news that [drawing3d](https://drawing3d.de/Default.aspx) plans to release the official nuget in January. This library and [nuget](https://www.nuget.org/packages/drawing3d) will be Deprecation
+> **注意:** 我看到官方消息,[Drawing3d官方](https://drawing3d.de/Default.aspx) 计划在一月份发布 正式版的官方 nuget。此库及[nuget](https://www.nuget.org/packages/drawing3d)将会下架 :blush:   
+> **Note:** I see the official news that [drawing3d](https://drawing3d.de/Default.aspx) plans to release the official nuget in January. This library and [nuget](https://www.nuget.org/packages/drawing3d) will be Deprecation :blush:    
 
 ## About
 
@@ -39,7 +39,7 @@ Note: I see the official news that [drawing3d](https://drawing3d.de/Default.aspx
 
     Drawing3d ist eine Graphikengine auf der Grundlage von OpenGL Es beinhaltet eine Menge von Komponenten zur Erstellung von Grafikprogrammen. (Gratis)  
     * Einfache Zuordnung eines Windowcontrols zur Graphikengine
-    * Automatische Navigation
+    * Automatische Navigatio
     * Baumartige Strukturierung der grafischen Elemente (Entities), wobei jeder Knoten eine Transformation enthält,die auf das entsprechende Element ausgeübt wird.
     * Selektieren von grafischen Elementen. Der Selektionsprozess arbeitet nach Prioritäten ( Z-Ordnung vor Punktelement vor Line Element usw. ), die auch vergeben werden können.
     * Sämtliche OpenGLspezifische Funktionen sind in Komponenten zusammengefasst.
