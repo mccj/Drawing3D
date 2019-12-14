@@ -8,6 +8,15 @@
 > **注意:** 我看到官方消息,[Drawing3d官方](https://drawing3d.de/Default.aspx) 计划在一月份发布 正式版的官方 nuget。此库及[nuget](https://www.nuget.org/packages/drawing3d)将会下架 :blush:   
 > **Note:** I see the official news that [drawing3d](https://drawing3d.de/Default.aspx) plans to release the official nuget in January. This library and [nuget](https://www.nuget.org/packages/drawing3d) will be Deprecation :blush:    
 
+
+我很抱歉，为了方便研究使用而在nuget及github上发布了drawing3d的代码库，我在描述上声明了此库属于drawing3d。
+我将在drawing3d正式发布nuget后放弃drawing3d相关的nuget及github库   
+如果drawing3d愿意，我也可以将nuget及github转让给drawing3d   
+
+I'm sorry to publish drawing3d code base on nuget and GitHub for the convenience of research and use, and I declare that this library belongs to drawing3d on the description.   
+I will give up the nuget and GitHub libraries related to drawing3d after the official release of nuget   
+If drawing3d wishes, I can also transfer nuget and GitHub to drawing3d   
+
 ## About
 
 ### Drawing3D ein 3D-Entwicklertool
